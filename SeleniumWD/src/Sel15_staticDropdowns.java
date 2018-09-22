@@ -35,7 +35,7 @@ public class Sel15_staticDropdowns {
     	 	day.selectByIndex(12); // by index
     	 	System.out.println("Selected day: "+day.getFirstSelectedOption().getText());
     	 	
-    	 	// create object for month drop down using name attribute
+    	 	// create object for month drop down using name attribute 
     	 	
     	 	Select month = new Select(driver.findElement(By.name("birthday_month")));
     	 	month.selectByValue("5"); // value in option tag under select tag
