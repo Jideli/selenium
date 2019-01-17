@@ -2,7 +2,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class Sel16CheckboxesAndRadiobuttons {
+public class Sel16_CheckboxesAndRadiobuttons {
 
      public static void main(String[] args){
     	 	System.setProperty("webdriver.chrome.driver", "/Users/Manon/Documents/selenium-java-3/chromedriver");

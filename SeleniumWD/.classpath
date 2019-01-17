@@ -10,5 +10,10 @@
 	<classpathentry kind="lib" path="/Users/Manon/Documents/selenium-java-3/okhttp-3.10.0.jar"/>
 	<classpathentry kind="lib" path="/Users/Manon/Documents/selenium-java-3/okio-1.13.0.jar"/>
 	<classpathentry kind="lib" path="/Users/Manon/Documents/selenium-java-3/selenium-server-standalone-3.14.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Manon/Documents/commons-io-2.6/commons-io-2.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/Manon/Documents/commons-io-2.6/commons-io-2.6-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Manon/Documents/commons-io-2.6/commons-io-2.6-test-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Manon/Documents/commons-io-2.6/commons-io-2.6-tests.jar"/>
+	<classpathentry kind="lib" path="/Users/Manon/Documents/commons-io-2.6/commons-io-2.6.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

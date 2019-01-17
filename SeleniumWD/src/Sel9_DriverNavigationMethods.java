@@ -15,13 +15,16 @@ public class Sel9_DriverNavigationMethods {
 	 	// navigates to the new page in the same browser window
 	 	driver.navigate().to("http://www.amazon.com");
 	 	System.out.println("Navigated to Amazona.com");
+	 	
 	 	// click on back button in the browser
 	 	driver.navigate().back();
 	 	System.out.println("Navigated back to Facebook");
+	 	
 	 	// move forward
 	 	driver.navigate().forward();
 	 	System.out.println(driver.getTitle());
 	 	driver.close();
+	 	
 	 	// refresh current webpage (F5)
 	 	// wait for 5 seconds first for visibility
 	 	Thread.sleep(1000);

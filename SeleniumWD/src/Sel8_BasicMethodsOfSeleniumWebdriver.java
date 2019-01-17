@@ -11,12 +11,16 @@ public class Sel8_BasicMethodsOfSeleniumWebdriver {
 	 
 	 	// print URL
 	 	System.out.println(driver.getCurrentUrl());
+	 	
 	 	// print title of page (text written in browser tab)
 	 	System.out.println(driver.getTitle());
+	 	
 	 	// print page source
 	 	System.out.println(driver.getPageSource());
+	 	
 	 	// close currently opened browser window
 	 	driver.close();
+	 	
 	 	// close all windows associated with the driver (also popups)
 	 	driver.quit();
 	 	
