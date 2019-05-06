@@ -28,5 +28,6 @@ public class Sel12_DynamicXPath {
     	 	System.out.println("Google launched in Chrome Browser");
     	 	
     	 	driver.findElement(By.xpath("//*[contains(text(),'Forgotten')]")).click();
+    	 	driver.findElement(By.xpath("//a[contains(@id, 'contact_link')]")).click();
     }
 }

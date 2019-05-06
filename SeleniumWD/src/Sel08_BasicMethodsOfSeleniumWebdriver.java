@@ -1,7 +1,7 @@
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-public class Sel8_BasicMethodsOfSeleniumWebdriver {
+public class Sel08_BasicMethodsOfSeleniumWebdriver {
 
 	public static void main(String[] args) {
 		System.setProperty("webdriver.gecko.driver", "/Users/Manon/Documents/selenium-java-3/geckodriver");

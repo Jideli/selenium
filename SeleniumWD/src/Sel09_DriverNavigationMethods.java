@@ -1,7 +1,7 @@
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-public class Sel9_DriverNavigationMethods {
+public class Sel09_DriverNavigationMethods {
 
 	public static void main(String[] args) throws InterruptedException { // throws method is needed for Thread.sleep
 		// InterruptedException is a caught exception, so you can't compile unless you handle or declare
